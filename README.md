@@ -1,4 +1,4 @@
-# 🍽️ TikTok Hotel Website
+# TikTok Hotel Website
 
 A simple and responsive food ordering website built using **HTML, CSS, and JavaScript**.
 This project showcases a restaurant-style landing page with menu items, animations, and basic interactivity.
